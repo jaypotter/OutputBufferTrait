@@ -6,6 +6,7 @@
         "php": "^8.3"
     },
     "suggest": {
+        "potter/output-buffer-traits": "dev-main",
         "potter/output-buffer": "dev-main",
         "potter/buffer": "dev-main",
         "potter/traits": "dev-main",
