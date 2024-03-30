@@ -1,0 +1,21 @@
+{
+    "name": "potter/output-buffer-trait",
+    "description": "PHP Output Buffer Trait",
+    "type": "library",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\Buffer\\Output\\": "src/Potter/Buffer/Output/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
